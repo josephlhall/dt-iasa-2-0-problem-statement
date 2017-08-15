@@ -39,7 +39,7 @@ author:
     organization: Comcast
     email: Jason_Livingood@comcast.com
     
-    ins. E. Rescorla
+    ins: E. Rescorla
     name: Eric Rescorla
     organization: RTFM, Inc.
     email: ekr@rtfm.com
