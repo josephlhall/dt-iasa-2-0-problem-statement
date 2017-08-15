@@ -13,36 +13,11 @@ stand_alone: yes
 pi: [toc, sortrefs, symrefs]
 
 author:
- -
-    ins: B. Haberman, Editor
-    name: Brian Haberman (Editor)
-    organization: Johns Hopkins University Applied Physics Lab
-    email: brian@innovationslab.net
-    
-    ins: J. Arkko
-    name: Jari Arkko
-    organization: Ericsson Research
-    email: jari.arkko@piuha.net
-
-    ins: L. Daigle
-    name: Leslie Daigle
-    organization: Thinking Cat Enterprises LLC
-    email: ldaigle@thinkingcat.com
-    
+ -    
     ins: J. Hall
     name: Joseph Lorenzo Hall
     organization: CDT
     email: joe@cdt.org
-    
-    ins: J. Livingood
-    name: Jason Livingood
-    organization: Comcast
-    email: Jason_Livingood@comcast.com
-    
-    ins: E. Rescorla
-    name: Eric Rescorla
-    organization: RTFM, Inc.
-    email: ekr@rtfm.com
 
 informative:
   I-D.daigle-iasa-retrospective:
@@ -68,8 +43,35 @@ options {{I-D.haberman-iasa20dt-recs}}.
 
 --- middle
 
-Introduction {#intro}
-============
 
-blah
+Problem Areas {#problems}
+=============
 
+Lack of Clarity
+---------------
+
+### Responsibility
+
+### Representation
+
+### Authority
+
+### Oversight
+
+Lack of Resources
+-----------------
+
+### Volunteers
+
+### Staff
+
+### Time
+
+Lack of Transparency
+--------------------
+
+Funding/Operating Model Mismatch
+--------------------------------
+
+Rising Costs
+------------

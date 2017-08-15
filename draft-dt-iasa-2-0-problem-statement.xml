@@ -14,10 +14,10 @@
   <front>
     <title>IASA 2.0 Problem Statement</title>
 
-    <author initials="E." surname="Rescorla" fullname="Eric Rescorla">
-      <organization>RTFM, Inc.</organization>
+    <author initials="J." surname="Hall" fullname="Joseph Lorenzo Hall">
+      <organization>CDT</organization>
       <address>
-        <email>ekr@rtfm.com</email>
+        <email>joe@cdt.org</email>
       </address>
     </author>
 
@@ -52,10 +52,44 @@ options <xref target="I-D.haberman-iasa20dt-recs"/>.</t>
   <middle>
 
 
-<section anchor="intro" title="Introduction">
+<section anchor="problems" title="Problem Areas">
 
-<t>blah</t>
+<section anchor="lack-of-clarity" title="Lack of Clarity">
 
+<section anchor="responsibility" title="Responsibility">
+
+</section>
+<section anchor="representation" title="Representation">
+
+</section>
+<section anchor="authority" title="Authority">
+
+</section>
+<section anchor="oversight" title="Oversight">
+
+</section>
+</section>
+<section anchor="lack-of-resources" title="Lack of Resources">
+
+<section anchor="volunteers" title="Volunteers">
+
+</section>
+<section anchor="staff" title="Staff">
+
+</section>
+<section anchor="time" title="Time">
+
+</section>
+</section>
+<section anchor="lack-of-transparency" title="Lack of Transparency">
+
+</section>
+<section anchor="fundingoperating-model-mismatch" title="Funding/Operating Model Mismatch">
+
+</section>
+<section anchor="rising-costs" title="Rising Costs">
+
+</section>
 </section>
 
 
@@ -207,27 +241,25 @@ options <xref target="I-D.haberman-iasa20dt-recs"/>.</t>
   </back>
 
 <!-- ##markdown-source:
-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
+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
+ZfEfiXCjw1UGAAA=
 
 -->
 
